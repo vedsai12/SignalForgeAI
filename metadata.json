@@ -1,0 +1,6 @@
+{
+  "name": "SignalForge AI",
+  "description": "Autonomous SaaS GTM intelligence platform and enterprise AI command center powered by autonomous web crawling and market research agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
